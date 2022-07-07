@@ -6,7 +6,7 @@ Aplikasi GUI untuk memperbaiki noise pada gambar dengan metode median filter (Gr
 ~~~
 Nama  : Fachmi Eka Pangestu
 NIM   : 311810084
-Kelas : TI 18 D51
+Kelas : TI 18 D5
 ~~~
 # 1. Tutorial Cara Membuat Applikasi GUI
 ketik guide pada command windows lalu tekan enter
